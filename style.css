@@ -17,6 +17,17 @@ a {
   font-size: 22px;
   text-align:center;
 }
+p, li {
+  color: white;
+  font-family:verdana;
+  font-size:100%;
+}
+p{
+  text-align:center;
+}
+hr{
+  width: 90%;
+}
 caption{
   color: white;
   width: 80%;
@@ -63,6 +74,11 @@ td {
   height: 20%;
 }
 #aboutmeimg{
+  width: 100%;
+  height: 5%;
+  margin-bottom: 20%;
+}
+#weektitleimg{
   width: 100%;
   height: 5%;
   margin-bottom: 20%;
