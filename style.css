@@ -10,6 +10,11 @@ h1, h2, h3, h4 {
   text-align: center;
   color: white;
 }
+p, li, a {
+  font-family:verdana;
+  text-align: center;
+  color: white;
+  
 a {
   color: white;
   text-decoration: none;
@@ -66,6 +71,12 @@ td {
   width: 100%;
   height: 5%;
   margin-bottom: 20%;
+}
+#cadimg{
+  width: 100%;
+  height: 5%;
+  margin-bottom: 20%;
+  
 }
 #normalimg{
   width: 100%;
