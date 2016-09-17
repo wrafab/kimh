@@ -1,0 +1,53 @@
+a {
+  color: #E55496;
+  text-decoration: none;
+  font-style: Tahoma, Geneva, sans-serif;
+  font-size: 22px;
+  text-align:center;
+}
+body {
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  align: center;
+  background-color: black;
+}
+caption{
+  color: white;
+  width: 80%;
+  text-align: center;
+  font-style: Helvetica, sans-serif;
+  font-size: 30px;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 2%;
+  border-color: gray;
+  border-top-style: double;
+  border-bottom-style: double;
+}
+img{
+  width: 100%;
+  height: 20%;
+}
+.title {
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 20%;
+}
+table {
+  margin-top: 10%;
+  padding-left:10%;
+  padding-right:10%;
+  align:center;
+  width: 100%;
+}
+td {
+  align: right;
+  width: 25%;
+  padding-left:5%;
+  padding-right:5%;
+  text-align:center;
+  border-style: solid;
+  border-color: white;
+}
