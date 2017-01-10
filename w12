@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>NEW WEBSITE</title>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+  </head>
+  <body>
+    <div class="title">
+      <img id="weektitleimg" src="dech.png"/>
+    </div>
+    <h1> Chelsy |LINK TO ADVANCED DIGITAL ENGINEERING FABRICATION </h1>
+    <br>
+    <p><hr></p>
+    <br>
+   https://fab.wra.net/kimc/
+    <br>
+    <p>
+    </p>
+    <br>
+   
+
+    </p>
+    <br>
+    <p><hr></p>
+    <div class="container"><a href="index.html">Back to index</a></div>
+    <br>
+  </body>
+</html>
